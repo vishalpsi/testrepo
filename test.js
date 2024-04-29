@@ -1,1 +1,1 @@
-let variables ="Hello world"
+let variables ="Hello world this is the type of object"
